@@ -24,7 +24,7 @@
 
 <div align="left">
   <p>My Portfolio
-    <a href="https://anuphap-portfolio.onrender.com/">
+    <a href="https://anuphap-portfolio.onrender.com/" target="_blank" rel="noopener noreferrer">
       Click Here to view
     </a>
   </p>
