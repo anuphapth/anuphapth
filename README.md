@@ -51,7 +51,7 @@
     />
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs?username=anuphapth&layout=compact&langs_count=20&theme=default&hide_border=true"
-      style="width: 35%; height: auto;"
+      style="width: 50%; height: auto;"
     />
   </picture>
 </div>
