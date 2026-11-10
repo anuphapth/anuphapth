@@ -8,11 +8,11 @@
 <h1 align="center">
   <picture>
     <source
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&width=500&height=70&duration=3000&pause=2500&color=FFFFFF&lines=Hi+I'm+Anuphap+Thianprayoon;Web+Developer+|+Software+Engineer"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&width=500&height=70&duration=3000&pause=2500&color=FFFFFF&lines=Hi+I'm+Anuphap;Web+Developer+|+Software+Engineer"
       media="(prefers-color-scheme: dark)"
     />
     <source
-      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&width=500&height=70&duration=3000&pause=2500&color=000000&lines=Hi+I'm+Anuphap+Thianprayoon;Web+Developer+|+Software+Engineer"
+      srcset="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=31&center=true&width=500&height=70&duration=3000&pause=2500&color=000000&lines=Hi+I'm+Anuphap;Web+Developer+|+Software+Engineer"
       media="(prefers-color-scheme: light)"
     />
     <img
@@ -22,7 +22,7 @@
   </picture>
 </h1>
 
-<h3 align="left">A passionate software developer from Thailand 🇹🇭</h3>
+<h3 align="left">A passionate software developer from Thailand</h3>
 
 <div align="left">
   <p>
